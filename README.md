@@ -1,5 +1,7 @@
 COMP3123 - Lab Test 1
-Full Stack Development 1
+
+Full Stack Development
+
 Student ID: 101436648
 
 Project Overview
